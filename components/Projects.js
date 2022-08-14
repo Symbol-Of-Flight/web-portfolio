@@ -26,7 +26,7 @@ const Projects = () => {
                     Everything you need for your next design project, from design systems to free stock photos, from free illustrations to UI mockups.
                 </div>
                 <div className='text-right pr-6 mt-2'>
-                    <a className='text-[#F50057]' href='https://decomponent.com/' target='_blank'>
+                    <a className='text-[#F50057]' href='https://decomponent.com/' target='_blank' rel="noreferrer">
                         Link
                     </a>
                 </div>
@@ -46,7 +46,7 @@ const Projects = () => {
                     Everything you need for your next design project, from design systems to free stock photos, from free illustrations to UI mockups.
                 </div>
                 <div className='text-left pr-6 mt-2'>
-                    <a className='text-[#F50057]' href='https://grateful-cloud.fufei.io/' target='_blank'>
+                    <a className='text-[#F50057]' href='https://grateful-cloud.fufei.io/' target='_blank' rel="noreferrer">
                         Link
                     </a>
                 </div>

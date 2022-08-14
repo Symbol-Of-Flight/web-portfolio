@@ -10,7 +10,7 @@ const Writing = () => {
             Writing
         </div>
         <div className='py-8 grid grid-cols-1 lg:grid-cols-3 gap-4'>
-            <a href="https://p-zero.fufei.io/product-trends-for-2022-beyond-c6d92f4fc85a" target='_blank'>
+            <a href="https://p-zero.fufei.io/product-trends-for-2022-beyond-c6d92f4fc85a" target='_blank' rel="noreferrer">
                 <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                     <img className="rounded-t-lg" src="/docs/images/blog/image-1.jpg" alt="" />
                 <div className="p-5">
@@ -27,7 +27,7 @@ const Writing = () => {
                     </div>
                 </div>
             </a>
-            <a href="https://p-zero.fufei.io/product-case-study-duolingo-bb5e99cf1d7" target='_blank'>
+            <a href="https://p-zero.fufei.io/product-case-study-duolingo-bb5e99cf1d7" target='_blank' rel="noreferrer">
                 <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                     
                 <div className="p-5">
@@ -44,7 +44,7 @@ const Writing = () => {
                     </div>
                 </div>
             </a>
-            <a href="https://p-zero.fufei.io/how-to-build-great-products-367059df3aa" target='_blank'>
+            <a href="https://p-zero.fufei.io/how-to-build-great-products-367059df3aa" target='_blank' rel="noreferrer">
                 <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                 <div className="p-5">
                         <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
@@ -62,7 +62,7 @@ const Writing = () => {
             </a>
         </div>
         <div className='text-right pr-6'>
-            <a className='text-[#F50057]' href='https://p-zero.fufei.io/' target='_blank'>
+            <a className='text-[#F50057]' href='https://p-zero.fufei.io/' target='_blank' rel="noreferrer">
                 Read more
             </a>
         </div>

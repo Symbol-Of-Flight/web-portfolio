@@ -7,14 +7,14 @@ import Writing from '../components/Writing'
 
 export default function Home() {
   return (
-    <div className="">
+    <div>
       <Head>
-        <title>Hi! I'm Fu Fei</title>
+        <title>Hi! Nice to meet you</title>
         <meta name="description" content="Nice to meet you! Thanks for taking the time to check this out" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="bg-[#0A192F] text-[#F7F7F7] ">
+      <main className="bg-[#0A192F] text-[#F7F7F7]">
         <Navbar/>
         <Hero/>
         <Writing/>
