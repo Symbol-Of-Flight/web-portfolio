@@ -22,7 +22,7 @@ const Projects = () => {
                     Decomponent
                 </div>
                 <div className='p-5 max-w-md bg-[#001D46] rounded-lg font-Inter text-[#6F7F9E] shadow-md '>
-                    A repository of design resources for UX/UI designers.
+                    A repository of design resources for UX/UI designers.<br/>
                     Everything you need for your next design project, from design systems to free stock photos, from free illustrations to UI mockups.
                 </div>
                 <div className='text-right pr-6 mt-2'>
@@ -43,7 +43,7 @@ const Projects = () => {
                     Grateful Cloud
                 </div>
                 <div className='p-5 max-w-md bg-[#001D46] rounded-lg font-Inter text-[#6F7F9E] shadow-md '>
-                    A repository of resources for non-profits
+                    A repository of resources for non-profits. <br/>
                     From email marketing to team collaboration, these are a list of tech companies that offer discounts or free tiers.
                 </div>
                 <div className='text-left pr-6 mt-2'>
@@ -69,7 +69,7 @@ const Projects = () => {
                     Daily Steps
                 </div>
                 <div className='p-5 max-w-md bg-[#001D46] rounded-lg font-Inter text-[#6F7F9E] shadow-md '>
-                    A chrome extension that turns new tabs into a to-do list
+                    A chrome extension that turns new tabs into a to-do list.<br/>
                     An easy way to keep track of task(s)
                 </div>
                 <div className='text-right pr-6 mt-2'>
