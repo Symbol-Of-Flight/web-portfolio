@@ -59,7 +59,7 @@ const Projects = () => {
 
         <div className='flex flex-col lg:flex-row lg:mx-40 my-20 items-center'>
             <div className='lg:-mr-20 grayscale-[80%] transition hover:grayscale-0 ease-in duration-200 hover:scale-110'>
-                <Image src="/DeC.png" width={500} height={300} alt='Daily Steps'/>
+                <Image src="/DS.png" width={500} height={300} alt='Daily Steps'/>
             </div>
             <div className='text-right lg:-ml-12 z-10 pt-10 lg:pt-0'>
                 <div className='text-[#F50057] font-Fira pr-3'>
@@ -70,7 +70,7 @@ const Projects = () => {
                 </div>
                 <div className='p-5 max-w-md bg-[#001D46] rounded-lg font-Inter text-[#6F7F9E] shadow-md '>
                     A chrome extension that turns new tabs into a to-do list
-                    An easy way to keep track of today's task(s)
+                    An easy way to keep track of task(s)
                 </div>
                 <div className='text-right pr-6 mt-2'>
                     <a className='text-[#F50057]' href='https://dailysteps.co/' target='_blank' rel="noreferrer">
