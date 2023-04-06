@@ -9,7 +9,7 @@ const Writing = () => {
             </span>
             Writing
         </div>
-        <div className='py-8 grid grid-cols-1 lg:grid-cols-3 gap-4'>
+        <div className='py-8 grid grid-cols-1 lg:grid-cols-3 gap-4 items-center justify-items-center'>
             <a href="https://p-zero.fufei.io/product-trends-for-2022-beyond-c6d92f4fc85a" target='_blank' rel="noreferrer">
                 <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                     <img className="rounded-t-lg" src="/docs/images/blog/image-1.jpg" alt="" />
