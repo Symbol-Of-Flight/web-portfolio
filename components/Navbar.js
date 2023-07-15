@@ -10,13 +10,13 @@ const Navbar = () => {
         <div className='hidden sm:block'>
           <div className="flex flex-row items-center font-Fira ">
               <Link href="#Writing">
-                <div className='mx-4'>Writing</div>
+                <div className='mx-4 cursor-pointer'>Writing</div>
               </Link>
               <Link href="#Projects">
-                <div className='mx-4'>Projects</div>
+                <div className='mx-4 cursor-pointer'>Projects</div>
               </Link>
               <Link href="#Footer">
-                <div className='text-[#F50057] mx-4 border-2 border-[#F50057] px-4 py-1'>
+                <div className='text-[#F50057] mx-4 border-2 border-[#F50057] px-4 py-1 cursor-pointer'>
                     Contact
                 </div>
               </Link>
